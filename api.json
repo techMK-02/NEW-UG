@@ -1,0 +1,5 @@
+{
+  "API_CLASSPLUS": "https://cpnormal-82cc60e453e9.herokuapp.com/ugxcpsign",
+  "API_DRM": "https://cpdrm-6c4b2f5fc9ad.herokuapp.com/get/keys?url=",
+  "PW_API": "https://anonymouspwplayer-0e5a3f512dec.herokuapp.com"
+}
