@@ -1069,7 +1069,7 @@ async def txt_handler(bot: Client, m: Message):
                             count += 1
                         else:
                             error_msg = (
-                            "⚠️ ᴅᴏᴡɴʟᴏᴀᴅ ғᴀɪʟᴇᴅ ⚠️\n"
+                            "⚠️ ᴅᴏᴡɴʟᴏᴀᴅ ғᴀɪʟᴇᴅ 2\n"
                             f"📛 ɴᴀᴍᴇ  : `{str(count).zfill(3)} {name1}`\n"
                             f"🔗 ᴜʀʟ    : {link0}\n"
                             f"❗ ʀᴇᴀꜱᴏɴ : {str(e)}"
@@ -1083,7 +1083,7 @@ async def txt_handler(bot: Client, m: Message):
                         
                     except Exception as e:
                         error_msg = (
-                            "⚠️ ᴅᴏᴡɴʟᴏᴀᴅ ғᴀɪʟᴇᴅ ⚠️\n"
+                            "⚠️ ᴅᴏᴡɴʟᴏᴀᴅ ғᴀɪʟᴇᴅ 3\n"
                             f"📛 ɴᴀᴍᴇ  : `{str(count).zfill(3)} {name1}`\n"
                             f"🔗 ᴜʀʟ    : {link0}\n"
                             f"❗ ʀᴇᴀꜱᴏɴ : {str(e)}"
@@ -1147,7 +1147,7 @@ async def txt_handler(bot: Client, m: Message):
                 
             except Exception as e:
                 error_msg = (
-                    "⚠️ ᴅᴏᴡɴʟᴏᴀᴅ ғᴀɪʟᴇᴅ ⚠️\n"
+                    "⚠️ ᴅᴏᴡɴʟᴏᴀᴅ ғᴀɪʟᴇᴅ 4\n"
                     f"📛 ɴᴀᴍᴇ  : `{str(count).zfill(3)} {name1}`\n"
                     f"🔗 ᴜʀʟ    : {link0}\n"
                     f"❗ ʀᴇᴀꜱᴏɴ : {str(e)}"
